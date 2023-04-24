@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdullah a Passionate Backend Developer</h1>
+<h1 align="center">Hi 👋, I'm Abdullah 😊<p> A Passionate Backend Developer </p></h1>
 <p align="center"> - 💬 Ask me about EF Core, .Net Core, MVC, SQL </p>
 
 <p align="center"> - 📫 How to reach me : <a href = "mailto: abdullahoren1@gmail.com">abdullahoren1@gmail.com</a> </p>
 
-<p align="center">Connect with me:
+<p align="center">You can easily reach me on Linkedin and you can ask questions without hesitation ↩</p>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-koselioren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-koselioren/" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -19,9 +19,18 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
+</br>
+<h2 align="center">⭐ My Reference Projects ⭐</h2>
+
+| Repo Links | Technologies and tools | Status | Year | Readme |
+|    :---:     |     :---:      |     :---:     |     :---:     |     :---:     |
+| <a href="https://github.com/akoselioren/BookStore-E-Commerce">BookStore E-Commerce</a>   | .Net Core MVC- Entity Framework Core - Identity - MSSQL - Fluent Validation - Bootstrap - External API with Iyzipay,Sendgrid - Datatables - Toastr | Finished    | 2023    | Texts, Images and Videos  |
+| <a href="https://github.com/akoselioren/MovieStoreApp">MovieStoreApp</a>    | .Net Core - Entity Framework Core - Web API - TDD - In Memory - Mapper - DTO - Fluent Validation - Middleware - DI Container - Postman - xUnit  | Finished      | 2023    | Texts and Images    |
+
  <div>
+  </br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akoselioren&" alt="akoselioren"  width="445"/></p>
  </div>
   <div  align="center">
