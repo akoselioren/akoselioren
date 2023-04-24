@@ -3,10 +3,20 @@
 
 <p align="center"> - 📫 How to reach me : <a href = "mailto: abdullahoren1@gmail.com">abdullahoren1@gmail.com</a> </p>
 
-<p align="center">You can easily reach me on Linkedin and you can ask questions without hesitation ↩</p>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-koselioren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-koselioren/" height="30" width="40" /></a>
+<p align="center">You can easily reach me via Linkedin or Mail, and ask questions without hesitation.
+
 </p>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/abdullah-koselioren/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+   <a href="mailto: abdullahoren1@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
