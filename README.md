@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah 😊<p> A Passionate Backend Developer </p></h1>
-<p align="center"> - 💬 Ask me about EF Core, .Net Core, MVC, SQL </p>
+<p align="center"> - 💬 Ask me about .Net Core, EF Core, MVC, SQL </p>
 
 <p align="center"> - 📫 How to reach me : <a href = "mailto: abdullahoren1@gmail.com">abdullahoren1@gmail.com</a> </p>
 
@@ -36,8 +36,9 @@
 
 | Repo Links | Technologies and tools | Status | Year | Readme |
 |    :---:     |     :---:      |     :---:     |     :---:     |     :---:     |
+| <a href="https://github.com/akoselioren/Electrical-Appliances-Store-Web-Api">Electrical-Appliances-Store-Web-Api</a>    | Web API - .Net Core - Entity Framework Core -  MSSQL - DTO - AutoMapper - Fluent Validation - Middleware - DI Container - Postman | In development      | 2023    | In development    |
 | <a href="https://github.com/akoselioren/BookStore-E-Commerce">BookStore E-Commerce</a>   | .Net Core MVC- Entity Framework Core - Identity - MSSQL - Fluent Validation - Bootstrap - External API with Iyzipay,Sendgrid - Datatables - Toastr | Finished    | 2023    | Texts, Images and Videos  |
-| <a href="https://github.com/akoselioren/MovieStoreApp">MovieStoreApp</a>    | .Net Core - Entity Framework Core - Web API - TDD - In Memory - Mapper - DTO - Fluent Validation - Middleware - DI Container - Postman - xUnit  | Finished      | 2023    | Texts and Images    |
+| <a href="https://github.com/akoselioren/MovieStoreApp">MovieStoreApp</a>    | .Net Core - Entity Framework Core - Web API - TDD - In Memory - DTO - AutoMapper - Fluent Validation - Middleware - DI Container - Postman - xUnit  | Finished      | 2023    | Texts and Images    |
 
  <div>
   </br>
