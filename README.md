@@ -36,9 +36,9 @@
 
 | Repo Links | Technologies and tools | Status | Year | Readme |
 |    :---:     |     :---:      |     :---:     |     :---:     |     :---:     |
-| <a href="https://github.com/akoselioren/Electrical-Appliances-Store-RESTful-Api">Electrical Appliances Store RESTful Web Api</a>    |RESTful Web API - .Net Core - Entity Framework Core -  N-Tier Architecture - MSSQL - DTO - AutoMapper - Fluent Validation - Middleware - DI Container - Postman – Nlog – UseException Handler – Content Negotiation – Async – Action Filters – Pagination – Filtering – Searcing – Sorting – Data Shaping – Hateoas – Options and Head – Root Documentation – Versioning – Caching – Rate Limit – Identity – JWT | In development      | 2023    | In development    |
-| <a href="https://github.com/akoselioren/BookStore-E-Commerce">BookStore E-Commerce</a>   | .Net Core MVC- Entity Framework Core - Identity - MSSQL - Fluent Validation - Bootstrap - External API with Iyzipay,Sendgrid - Datatables - Toastr | Finished    | 2023    | Texts, Images and Videos  |
-| <a href="https://github.com/akoselioren/MovieStoreApp-Web-Api">Movie Store App Web Api</a>    | .Net Core - Entity Framework Core - Web API - TDD - In Memory - DTO - AutoMapper - Fluent Validation - Middleware - DI Container - Postman - xUnit  | Finished      | 2023    | Texts and Images    |
+| <a href="https://github.com/akoselioren/Electrical-Appliances-Store-RESTful-Api">Electrical Appliances Store RESTful Web Api</a>    |RESTful Web API – Asp.Net Core – Entity Framework Core –  N-Tier Architecture – MSSQL – DTO – AutoMapper – Validation – Middleware – DI Container – Postman – Nlog – Global Error Handling – Content Negotiation – Async – Action Filters – Pagination – Filtering – Searcing – Sorting – Data Shaping – Hateoas – Options and Head – Root Documentation – Versioning – Caching – Rate Limit – Identity – JWT – API Documentation | Finished      | 2023    | Texts and Images    |
+| <a href="https://github.com/akoselioren/BookStore-E-Commerce">BookStore E-Commerce</a>   | .Net Core MVC – Entity Framework Core – Identity – MSSQL – Fluent Validation – Bootstrap – External API with Iyzipay,Sendgrid – Datatables – Toastr | Finished    | 2023    | Texts, Images and Videos  |
+| <a href="https://github.com/akoselioren/MovieStoreApp-Web-Api">Movie Store App Web Api</a>    | .Net Core – Entity Framework Core – Web API – TDD – In Memory – DTO – AutoMapper – Fluent Validation – Middleware – DI Container – Postman – xUnit  | Finished      | 2023    | Texts and Images    |
 
  <div>
   </br>
@@ -50,6 +50,6 @@
 </p>
 </div>
  <div>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akoselioren" alt="akoselioren" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akoselioren" alt="akoselioren"/></a> </p>
  </div>
  
