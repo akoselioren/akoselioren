@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah 😊<p> A Passionate Backend Developer </p></h1>
+<h1 align="center">Hi 👋, I'm Abdullah 😊<p> A Passionate Software Developer </p></h1>
 <p align="center"> - 💬 Ask me about .Net Core, EF Core, MVC, SQL </p>
 
 <p align="center"> - 📫 How to reach me : <a href = "mailto: abdullahoren1@gmail.com">abdullahoren1@gmail.com</a> </p>
